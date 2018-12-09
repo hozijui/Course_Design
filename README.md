@@ -23,7 +23,7 @@
 ### 参考
 
 * [S3C2440X Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/93102/SAMSUNG/S3C2440X.html)
-* 友善之臂mini2440用户手册
+* [友善之臂mini2440用户手册](/mini2440用户手册.pdf)
 * [ARM开发板mini2440的按键控制LED小程序](https://wenku.baidu.com/view/dc5f821fa300a6c30c229f3e.html)
 * [Linux驱动基础开发](https://www.cnblogs.com/mrzhangxinjie/p/7170736.html)
 
