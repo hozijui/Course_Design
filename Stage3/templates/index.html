@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mini2440远程灯泡控制</title>
+    <meta charset="utf-8">
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="css/home.css">
+</head>
+<body>
+<div class="all">
+    <div class="box">
+
+        <div class="line">
+            <div class="switch" onclick="SwitchLed(0)">
+                <div class="on">|</div>
+                <div class="slider">LED1</div>
+                <div class="off">O</div>
+            </div>
+
+            <div class="lamp">
+                <img class="point" src="pic/off.png">
+            </div>
+        </div>
+
+
+        <div class="line">
+            <div class="switch" onclick="SwitchLed(1)">
+                <div class="on">|</div>
+                <div class="slider">LED2</div>
+                <div class="off">O</div>
+            </div>
+
+            <div class="lamp">
+                <img src="pic/off.png" class="point">
+            </div>
+        </div>
+
+
+        <div class="line">
+            <div class="switch" onclick="SwitchLed(2)">
+                <div class="on">|</div>
+                <div class="slider">LED3</div>
+                <div class="off">O</div>
+            </div>
+
+            <div class="lamp">
+                <img src="pic/off.png" class="point">
+            </div>
+        </div>
+
+
+        <div class="line">
+            <div class="switch" onclick="SwitchLed(3)">
+                <div class="on">|</div>
+                <div class="slider">LED4</div>
+                <div class="off">O</div>
+            </div>
+
+            <div class="lamp">
+                <img src="pic/off.png" class="point">
+            </div>
+        </div>
+
+    </div>
+</div>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/switch.js"></script>
+</body>
+</html>
