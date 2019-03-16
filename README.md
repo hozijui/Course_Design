@@ -16,10 +16,6 @@
   * 配置和生成嵌入式Linux的系统镜像
   * 配置和生成嵌入式Linux的根文件系统镜像
 
-### 进度
-
-  目前已进行到综合课设Ⅲ，重写了一个Web服务来替代Ⅱ中的网络服务程序。
-
 ### 参考
 
 * [S3C2440X Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/93102/SAMSUNG/S3C2440X.html)
